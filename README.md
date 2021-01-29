@@ -1,2 +1,2 @@
 # MapReduce
-Implement of MapReduce with multi-thread
+Implementation of MapReduce with multi-thread
